@@ -1,0 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chery_Tiggo_7"
+
+generations:
+  - name: "First Generation"
+    start_year: 2016
+    end_year: 2020
+    description: "A compact crossover, codenamed T15, introduced at the 2016 Guangzhou Auto Show with a 2.0 L petrol engine and later a 1.5 L turbocharged petrol engine with a six-speed dual-clutch transmission."
+
+  - name: "Second Generation"
+    start_year: 2020
+    end_year: 2024
+    description: "The T1E compact crossover sold in China as the Tiggo 7 and Tiggo 7 Plus and in most export markets as the Tiggo 7 Pro, with 1.5 L and 1.6 L turbocharged petrol engines, a 48 V mild hybrid and, from 2023, a plug-in hybrid."
+
+  - name: "Third Generation"
+    start_year: 2024
+    end_year: null
+    description: "A redesigned compact crossover launched in 2024 with 1.5 L and 1.6 L turbocharged petrol engines and a plug-in hybrid, the latter also sold as the Fulwin T6."
